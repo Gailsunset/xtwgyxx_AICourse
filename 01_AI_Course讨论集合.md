@@ -31,7 +31,6 @@
 | 201005 | 张博 | 编程 | [科大讯飞 编程入门学习机器人 ](https://item.m.jd.com/product/100007896369.html?wxa_abtest=o&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&ad_od=share&gx=RnExymENO2DamdQUrIR3Wo8_qhK4Caqe) |
 | 201013 | 铭英 | STEAM相关竞赛 | [童心制物杯-2020上海国际STEAM 课程开发者黄金大奖赛-晋级赛名单公布](https://mp.weixin.qq.com/s/DIl_WaBg5lpzlatsnQY_KQ) |
 | 210109 | 吴校 |  笑一笑～ | [女儿埋怨父亲没送生日礼物，然后程序员拆了电视写代码，结果…#骚操作 #盘个福地上热门](https://www.ixigua.com/6913501432381443336) |
-
 | 210109 | 吴校 | 物理现象  | [冻感十足！高校花式“泼水成冰”，背后的原理原来是](https://mp.weixin.qq.com/s/GUyxk955WyNz0tZ15KGsrw) |
 | 210109 | 张博 | 物理现象  | 【爱奇艺检索】什么是过冷水？水倒出瞬间形成冰沙，你知道原理吗？ |
 | 210109 | 吴校 | 内容涉及新冠病毒、自动驾驶、火星计划等 | [马斯克登顶世界首富后，惊人的远见和思考](https://www.toutiao.com/i6915680190001627662/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610197644&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101092107240101490201963E6E3E0B&share_token=6c8ce473-06ab-4937-846e-09910d07220c&group_id=6915680190001627662) |
