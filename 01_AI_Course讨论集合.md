@@ -1,4 +1,4 @@
-# xtwgyxx_AICourse
+# Xtwgyxx_AICourse
 >本文档记录**仙外AI大课程融合**在讨论过程中产生的想法💡和资料💾
 
 大家好！<br>
