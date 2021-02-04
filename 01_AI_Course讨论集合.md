@@ -38,9 +38,9 @@
 | 210110 | 铭英 | 创新与变革：面向智能时代的教育 | [专家视角_王珠珠：信息技术为教育发展注入新动力](https://mp.weixin.qq.com/s/Qe3gaShJ7PvD6Z_E7Qr-gA) |
 | 210110 | 吴校 | 物理相关-机器人比赛 | [太欢乐了。🤖️我有特殊的扔瓶子姿势](https://www.ixigua.com/6915613009272524039) |
 | 210110 | 铭英 | 上外龙岗CPBL课程汇报交流展示会 | [重构项目式学习，提升学生核心能力](https://mp.weixin.qq.com/s/C6wre7bdD248eBI68Uuf2Q) |
-| 210113 | 吴校 | 科普 | [目前为止观测到宇宙中最大的恒星是这颗史蒂文斯2-18. #涨知识 #科普知识(https://www.ixigua.com/6912264096972836109) |
-| 210119 | 铭英 | 龙岗区科学学科的教研员分享 | [吴向东：启发教师着手设计A-STEM课程的四个提问(https://www.jianshu.com/p/205764b6eb9d?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=timeline) |
-| 210125 | 吴校 | 科普 | [一箭143星！刚刚，SpaceX刷新了世界纪录#马斯克 #SpaceX(https://www.ixigua.com/6921372171314990349) |
+| 210113 | 吴校 | 科普 | [目前为止观测到宇宙中最大的恒星是这颗史蒂文斯2-18. #涨知识 #科普知识](https://www.ixigua.com/6912264096972836109) |
+| 210119 | 铭英 | 龙岗区科学学科的教研员分享 | [吴向东：启发教师着手设计A-STEM课程的四个提问](https://www.jianshu.com/p/205764b6eb9d?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=timeline) |
+| 210125 | 吴校 | 科普 | [一箭143星！刚刚，SpaceX刷新了世界纪录#马斯克 #SpaceX](https://www.ixigua.com/6921372171314990349) |
 | 210131 | 吴校 | 共享泛在智慧的教育新家园 | [2020上海基础教育信息化蓝皮书正式发布！](https://mp.weixin.qq.com/s/lwkokbtWbDzGo4bfWyPuGA) |
 
 
