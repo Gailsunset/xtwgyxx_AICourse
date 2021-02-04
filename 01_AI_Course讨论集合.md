@@ -4,7 +4,7 @@
 大家好！<br>
 本群是仙外AI大课程融合的成员小组，因(不时)有新加入的老师，为方便大家查找和检索之前讨论产生的想法💡和资料💾 ，故建立本**分享文档**【见下方**链接**🔗】，大家看到有意思的资料可以发在群里，我会定期整理哒，谢谢大家的支持与配合～～<br>
 Ps:建议用电脑或平板查看，效果较好，手机也完全ok呢<br>
-链接如下:https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/01_AI_Course%E8%AE%A8%E8%AE%BA%E9%9B%86%E5%90%88.md
+链接如下:<br>https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/01_AI_Course%E8%AE%A8%E8%AE%BA%E9%9B%86%E5%90%88.md
 
 ## 01 吴校分享
 
