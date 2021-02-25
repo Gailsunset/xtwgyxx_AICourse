@@ -1,4 +1,5 @@
 # 八年级课程大纲Syllabus
+
 ## 课堂要求
 1. 笔记本、书、笔
 2. 提前5min排队，课代表带队上楼
@@ -35,3 +36,4 @@
 
 ## 参考资料
 1. [树莓派第一课](https://mp.weixin.qq.com/s/MDixrk_dZz5rp589avk-qg)
+2. [斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
