@@ -36,8 +36,7 @@
 2. VB介绍
 
 ### 第三周 Python+竞赛题分析
-1. 
-2. (竞赛题分析【见合集】)[https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/002_NOIP/000_%E7%AB%9E%E8%B5%9B%E9%A2%98%E5%90%88%E9%9B%86.md]
+- (竞赛题分析【见合集】)[https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/002_NOIP/000_%E7%AB%9E%E8%B5%9B%E9%A2%98%E5%90%88%E9%9B%86.md]
 * [数字拆分](https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/101_NOIP/001_%E6%95%B0%E5%AD%97%E6%8B%86%E5%88%86.md)
 
 
