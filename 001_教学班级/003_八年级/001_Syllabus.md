@@ -20,8 +20,8 @@
 ## 课程大纲
 ### 第一周 回顾总结、VB引入
 ### 第二周 心理测试+VB介绍
-### 第三周 Python+竞赛题分析
-
+### 第三周 分支结构+竞赛题分析
+### 第四周 for循环+竞赛题分析
 
 
 ### 第一周 回顾总结、VB引入
@@ -35,7 +35,7 @@
 1. 心理测试
 2. VB介绍
 
-### 第三周 Python+竞赛题分析
+### 第三周 分支结构+竞赛题分析
 - [竞赛题分析【见合集】](https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/002_NOIP/000_%E7%AB%9E%E8%B5%9B%E9%A2%98%E5%90%88%E9%9B%86.md)
 * [数字拆分](https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/002_NOIP/001_%E4%BC%98%E7%A7%80%E7%9A%84%E6%8B%86%E5%88%86.md)
 
@@ -48,6 +48,9 @@
 * 803
 * 804
 * 805
+
+
+### 第四周 for循环+竞赛题分析
 
 
 ## 推荐书目
