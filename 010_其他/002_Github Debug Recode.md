@@ -23,3 +23,15 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
 Things will work just fine.
+
+
+# 210319
+### 问题描述
+fatal: unable to access 'https://github.com/xxx': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
+
+```python
+git config --global --add remote.origin.proxy "127.0.0.1:(proxy http port number)"
+```
+- 底下有很多图片，正好使用了clash的端口，于是我也用了。遂解决问题。
+
+* [stackoverflow](https://stackoverflow.com/questions/49345357/fatal-unable-to-access-https-github-com-xxx-openssl-ssl-connect-ssl-error)
