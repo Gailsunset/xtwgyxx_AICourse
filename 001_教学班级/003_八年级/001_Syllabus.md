@@ -52,9 +52,13 @@
 
 ### 第四周 for循环+竞赛题分析
 ### 第五周 python第9课_循环结构_for循环的应用实例
+## 课程设计优化
+1. 引入
+结合[趣学Python编程](https://book.douban.com/subject/25837145/)一书中循环使用的案例，即why失眠时会数绵羊，并不是因为羊让人昏昏欲睡，而是**不停地重复同一件事**很无聊。当你没有关注有趣的事情时，大脑容易入睡。
 
 
 ## 参考文献
+* [趣学Python编程](https://book.douban.com/subject/25837145/)
 * [关于format_Python format 格式化函数](https://www.runoob.com/python/att-string-format.html)
 * [python字符串格式化深入详解（四种方法）](https://blog.csdn.net/qq_27825451/article/details/105652244)
 # 其他
