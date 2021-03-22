@@ -51,7 +51,13 @@
 
 
 ### 第四周 for循环+竞赛题分析
+### 第五周 python第9课_循环结构_for循环的应用实例
 
+
+## 参考文献
+* [关于format_Python format 格式化函数](https://www.runoob.com/python/att-string-format.html)
+* [python字符串格式化深入详解（四种方法）](https://blog.csdn.net/qq_27825451/article/details/105652244)
+# 其他
 
 ## 推荐书目
 * Python学习手册 第三版
