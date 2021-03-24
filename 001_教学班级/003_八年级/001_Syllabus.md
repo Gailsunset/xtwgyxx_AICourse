@@ -55,12 +55,28 @@
 ## 课程设计优化
 1. 引入
 结合[趣学Python编程](https://book.douban.com/subject/25837145/)一书中循环使用的案例，即why失眠时会数绵羊，并不是因为羊让人昏昏欲睡，而是**不停地重复同一件事**很无聊。当你没有关注有趣的事情时，大脑容易入睡。
+2. 难点
+- 水仙花
+- 杨辉三角
+- 九九乘法表
+- Python相关书籍里for循环的介绍
 
+
+- 打印的格式[详见参考文献]
+```python
+#1xs
+t=0.5
+print("麦粒总重量（吨）数为：%.2f" % t)
+#2
+print("麦粒总重量（吨）数为：",format(t,'.2f'))
+```
 
 ## 参考文献
 * [趣学Python编程](https://book.douban.com/subject/25837145/)
 * [关于format_Python format 格式化函数](https://www.runoob.com/python/att-string-format.html)
 * [python字符串格式化深入详解（四种方法）](https://blog.csdn.net/qq_27825451/article/details/105652244)
+
+
 # 其他
 
 ## 推荐书目
