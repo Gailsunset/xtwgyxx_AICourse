@@ -49,6 +49,8 @@
 
 ### 第四周 for循环+竞赛题分析
 - 教学内容 见[第四课](https://github.com/Gailsunset/xtwgyxx_AICourse/tree/main/001_%E6%95%99%E5%AD%A6%E7%8F%AD%E7%BA%A7/003_%E5%85%AB%E5%B9%B4%E7%BA%A7/%E7%AC%AC%E5%9B%9B%E8%AF%BE)
+- [竞赛题分析【见合集】](https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/002_NOIP/000_%E7%AB%9E%E8%B5%9B%E9%A2%98%E5%90%88%E9%9B%86.md)
+* [数字游戏](https://github.com/Gailsunset/xtwgyxx_AICourse/blob/main/002_NOIP/003_%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.md)
 
 
 ### 第五周 python第9课_循环结构_for循环的应用实例
