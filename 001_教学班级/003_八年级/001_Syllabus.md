@@ -9,10 +9,8 @@
 * 核心： VB编程
 
 
-
-
 ## 上课内容
-1. Python回顾
+1. Python
 2. NOIP竞赛题
 3. VB
 
