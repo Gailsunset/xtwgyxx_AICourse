@@ -82,11 +82,11 @@ print(universities[1:2])
 
 * 字符串呢，请看如下例题1：
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/11.png" alt="avatar" style="zoom:40%;" align = center/>
+<img src="./pic/11.png" alt="avatar" style="zoom:40%;" align = center/>
 
 *  例题2	
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/12.png" alt="avatar" style="zoom:40%;" align = center/>
+<img src="./pic/12.png" alt="avatar" style="zoom:40%;" align = center/>
 
 ### 3.2 元组
 
