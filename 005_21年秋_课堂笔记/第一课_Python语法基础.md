@@ -1,4 +1,4 @@
-# 第一课_Python语法基础
+#  第一课_Python语法基础
 
 BY 吴铭英 20210921
 
@@ -69,7 +69,7 @@ BY 吴铭英 20210921
 print("Hello world")
 ```
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/01.png" alt="avatar" style="zoom:50%;" align = center/>
+<img src="./pic/01.png" alt="avatar" style="zoom:50%;" align = center/>
 
 ### 1.3 注意事项
 
@@ -87,7 +87,7 @@ print(sys.version)
 [Clang 10.0.0 ]
 ```
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/13.png" alt="avatar" style="zoom:30%;" align = center/>
+<img src="./pic/13.png" alt="avatar" style="zoom:30%;" align = center/>
 
 
 
@@ -105,7 +105,7 @@ print(sys.version)
 * 4个空格
 * 1个Tab
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/05.png" alt="avatar" style="zoom:40%;" align = center/>
+<img src="./pic/05.png" alt="avatar" style="zoom:40%;" align = center/>
 
 ### 1.4 如何运行程序
 
@@ -132,7 +132,7 @@ print(sys.version)
 
 * 习题
 
-  <img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/06.png" alt="avatar" style="zoom:40%;" align = center/>
+  <img src="./pic/06.png" alt="avatar" style="zoom:40%;" align = center/>
 
 ### 1.6 快捷键【多练习】
 
@@ -182,7 +182,7 @@ print(university)
 * bool  True|False
   1. 练习1
 
-  <img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/07.png" alt="avatar" style="zoom:30%;" align = center/>
+  <img src="./pic/07.png" alt="avatar" style="zoom:30%;" align = center/>
 
 ​	答案：B
 
@@ -192,7 +192,7 @@ print(university)
     print(round(0.1+0.2,1)==0.3)
     ```
 
-      <img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/08.png" alt="avatar" style="zoom:30%;" align = center/>
+      <img src="./pic/08.png" alt="avatar" style="zoom:30%;" align = center/>
     
     
 
@@ -220,7 +220,7 @@ print(type(c))
 print(type(d))
 ```
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/02.png" alt="avatar" style="zoom:40%;" align = center/>
+<img src="./pic/02.png" alt="avatar" style="zoom:40%;" align = center/>
 
 ### 2.2 变量命名规则
 
@@ -240,7 +240,7 @@ print(type(d))
   2. TempStr
   3. _AI
   4. 3_1
-* <img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/10.png" alt="avatar" style="zoom:40%;" align = center/>
+* <img src="./pic/10.png" alt="avatar" style="zoom:40%;" align = center/>
 
 #### 2.2.2 关键字信息
 
@@ -259,7 +259,7 @@ print(len(kw))
 ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 35
 ```
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/03.png" alt="avatar" style="zoom:40%;" align = center/>
+<img src="./pic/03.png" alt="avatar" style="zoom:40%;" align = center/>
 
 #### 2.2.3例题【NOC语法基础题】
 
@@ -269,7 +269,7 @@ print(len(kw))
   3. except
   4. pass
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/14.png" alt="avatar" style="zoom:40%;" align = center/>
+<img src="./pic/14.png" alt="avatar" style="zoom:40%;" align = center/>
 
 
 
@@ -355,7 +355,7 @@ print("Name is %s, Num is %d"%(name,number))
 Name is xihuan, Num is 10
 ```
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/04.png" alt="avatar" style="zoom:40%;" align = center/>
+<img src="./pic/04.png" alt="avatar" style="zoom:40%;" align = center/>
 
 #### 2.4.2 一行输出多条Python语句
 
@@ -374,7 +374,7 @@ world
 
 总结：用的符号是分号<font color=red>**;**</font>
 
-<img src="/Users/kakawu/Laptop/atmp/21年工作相关/210920课堂笔记/pic/09.png" alt="avatar" style="zoom:50%;" align = center/>
+<img src="./pic/09.png" alt="avatar" style="zoom:50%;" align = center/>
 
 ## 3. 小结
 
