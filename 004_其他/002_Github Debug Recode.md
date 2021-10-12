@@ -35,3 +35,7 @@ git config --global --add remote.origin.proxy "127.0.0.1:(proxy http port number
 - 底下有很多图片，正好使用了clash的端口，于是我也用了。遂解决问题。
 
 * [stackoverflow](https://stackoverflow.com/questions/49345357/fatal-unable-to-access-https-github-com-xxx-openssl-ssl-connect-ssl-error)
+
+```
+git config --global --add remote.origin.proxy "127.0.0.1:7890"                  
+```
