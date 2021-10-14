@@ -88,10 +88,16 @@ print(universities[1:2])
 
 <img src="./pic/12.png" alt="avatar" style="zoom:30%;" align = center/>
 
+
+
 ### 3.2 元组
+
+自学
 
 ### 3.3 字典
 
+自学
+
 ### 3.4 集合
 
-### 
+自学
