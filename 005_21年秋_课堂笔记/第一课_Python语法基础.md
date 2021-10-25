@@ -48,13 +48,17 @@ BY 吴铭英 20210921
 
 ### 1.1 Python是什么
 
-> Python 是一种解释型、面向对象、动态数据类型的高级程序设计语言。
+> Python 是一种**解释型**、面向对象、动态数据类型的高级程序设计语言。
 >
 > Python 由Guido van Rossum 于<font color=red>  1989 </font>年底发明，第一个公开发行版发行于 1991 年。
 >
 > ref:https://www.runoob.com/python/python-tutorial.html
 
 如果对Python的历史感兴趣，可以阅读名为[《Python简史》](http://www.cnblogs.com/vamei/archive/2013/02/06/2892628.html)的网络文章。
+
+* 解释型:**一边执行一边转换**，需要哪些源代码就转换哪些源代码，不会生成可执行程序，比如 [Python](http://c.biancheng.net/python/)、[JavaScript](http://c.biancheng.net/js/)、[PHP](http://c.biancheng.net/php/)、Shell、[MATLAB](http://c.biancheng.net/matlab/) 等，这种编程语言称为解释型语言，使用的转换工具称为解释器。
+* 编译型：提前**将所有源代码一次性转换成二进制指令**，也就是生成一个可执行程序（Windows 下的 .exe），比如C语言、[C++](http://c.biancheng.net/cplus/)、Golang、Pascal（Delphi）、汇编等，这种编程语言称为编译型语言，使用的转换工具称为编译器。
+  * 参考：[编译型语言和解释型语言的区别](http://c.biancheng.net/view/4136.html)
 
 ### 1.2 新建```py```文件及第一行代码 
 
