@@ -120,8 +120,6 @@ print(universities[1:2])
 
 
 
-
-
 ## 3.2 元组(tuple)
 
 ## 3.2.1是什么
@@ -162,8 +160,6 @@ print(type(a))
 (1,)
 <class 'tuple'>
 ```
-
-
 
 
 

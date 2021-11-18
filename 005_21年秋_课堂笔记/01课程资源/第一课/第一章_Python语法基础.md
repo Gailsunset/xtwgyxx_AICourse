@@ -1,19 +1,12 @@
-#  第一课_Python语法基础
+#  第一章_Python语法基础
 
 BY 吴铭英 20210921
 
-
+211118更新
 
 [TOC]
 
 ## 0. 前言
-
-### 0.0 教学资料
-
-之后考虑把教学资料放到
-
-1. 公众号```泰初君```
-2. ```github``` 账号：在```bing```浏览器里检索如下关键词```gailsunset xtwgyxx_AICourse```
 
 ### 0.1 课程目标
 
@@ -34,15 +27,21 @@ BY 吴铭英 20210921
 
 ### 0.4 比赛
 
-* NOC http://www.noc.net.cn/
-  * 多刷真题
+* NOC 
 * 蓝桥杯
 * 网络夏令营-程序设计
 
 ### 0.5 每日任务
 
-* 输出一句你喜欢的名言
-  * Give me six hours to chop down a tree and I will spend **the first four sharpening the axe.** By  **Abraham Lincoln**
+* 第一周：熟悉pycharm平台-输出一句你喜欢的名言
+  * 例如：Give me six hours to chop down a tree and I will spend **the first four sharpening the axe.** By  **Abraham Lincoln**
+* 回顾上一周的代码
+  * 复现上周学习的案例（例如：列表的练习、海伦公式求三角形面积、三个数比较大小等）
+
+### 0.6 奖励
+
+* 限量版北京大学手绘明信片
+* 文具等
 
 ## 1. 概述
 
@@ -383,3 +382,4 @@ world
 ## 3. 小结
 
 参见目录
+
